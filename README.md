@@ -24,6 +24,7 @@ git branch -M "New branch"
 
 git push -u origin my-new-branch
 ----short commend end---
+//
 -----all git command-----
 
 git config --global user.name kawsar // insert user name
